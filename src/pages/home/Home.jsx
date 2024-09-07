@@ -15,7 +15,7 @@ const Home = () => {
             <a href="#" class="cta-btn">Get Started</a>
           </div>
           <div class="hero-card">
-            <img src="https://via.placeholder.com/400x300" alt="Hero Image" />
+            <img src="https://i0.wp.com/www.admecindia.co.in/wp-content/uploads/2021/03/admec-react-fundamentals.jpg?fit=2000%2C1112&ssl=1" alt="Hero Image" />
             <h3>Our Top Project</h3>
             <p>We’ve delivered high-quality solutions to our clients, and you could be next!</p>
           </div>
